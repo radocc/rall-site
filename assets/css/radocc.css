@@ -1,0 +1,24 @@
+.homepage-6 .welcome-area {
+    background: rgba(0, 0, 0, 0) url("../img/radocc/foto_topo.jpg") no-repeat scroll center center / cover;
+}
+#sobre p {
+    font-size: 16px;
+    font-weight: 200;
+    text-align: justify;
+    text-indent: 4em;
+    margin-bottom: 1rem;
+    line-height: 24px;
+}
+.sub-title{
+    font-size: 2rem;
+    margin-top: 3rem;
+    margin-bottom: 4rem;
+}
+.fs-20 {
+    font-size: 20px;
+}
+.div-sobre-img {
+    min-height: 450px;
+    width: 100%;
+    height: 100%;
+}
